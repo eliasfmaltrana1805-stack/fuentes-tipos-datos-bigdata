@@ -1,7 +1,6 @@
 # Proyecto Unidad I - Fuentes y tipos de datos en Big Data
 # Tema: ciencia espacial, con datos abiertos de la NASA y arXiv.
-#
-# Las 5 fuentes son reales, no las inventamos. Cada funcion lee_* lee una
+# Cada funcion lee una
 # fuente y la deja como tabla con las mismas columnas (id, fuente, entidad,
 # tipo_contenido, valor, fecha) para poder juntarlas al final.
 
