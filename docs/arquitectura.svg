@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="800" viewBox="0 0 1300 800" font-family="Arial, Helvetica, sans-serif">
+  <rect x="0" y="0" width="1300" height="800" fill="#ffffff"/>
+
+  <text x="650" y="42" text-anchor="middle" font-size="26" font-weight="bold" fill="#111827">Arquitectura del flujo de datos</text>
+  <text x="650" y="68" text-anchor="middle" font-size="15" fill="#4b5563">Caso: ciencia espacial, datos abiertos reales de la NASA</text>
+
+  <!-- Arrows marker -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#374151"/>
+    </marker>
+  </defs>
+
+  <!-- FUENTES (columna 1) -->
+  <g font-size="13" fill="#ffffff" text-anchor="middle">
+    <rect x="20" y="600" width="270" height="90" rx="10" fill="#3B82F6" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="155" y="628" font-weight="bold">Fuente 1: CSV</text>
+    <text x="155" y="648">exoplanetas.csv (NASA)</text>
+    <text x="155" y="668" font-size="11" fill="#dbeafe">Estructurado (dataset real)</text>
+
+    <rect x="20" y="485" width="270" height="90" rx="10" fill="#F59E0B" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="155" y="513" font-weight="bold">Fuente 2: JSON</text>
+    <text x="155" y="533">imagenes_nasa.json</text>
+    <text x="155" y="553" font-size="11" fill="#fff7ed">Semiestructurado (dataset real)</text>
+
+    <rect x="20" y="370" width="270" height="90" rx="10" fill="#F59E0B" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="155" y="398" font-weight="bold">Fuente 3: XML</text>
+    <text x="155" y="418">API de arXiv (en vivo)</text>
+    <text x="155" y="438" font-size="11" fill="#fff7ed">Semiestructurado</text>
+
+    <rect x="20" y="255" width="270" height="90" rx="10" fill="#EF4444" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="155" y="283" font-weight="bold">Fuente 4: TXT / LOG</text>
+    <text x="155" y="303">log del servidor NASA (1995)</text>
+    <text x="155" y="323" font-size="11" fill="#fef2f2">No estructurado</text>
+
+    <rect x="20" y="140" width="270" height="90" rx="10" fill="#F59E0B" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="155" y="168" font-weight="bold">Fuente 5: API</text>
+    <text x="155" y="188">NeoWs (asteroides, NASA)</text>
+    <text x="155" y="208" font-size="11" fill="#fff7ed">Semiestructurado (en vivo)</text>
+  </g>
+
+  <!-- Arrows fuentes -> lectura -->
+  <path d="M290,645 L420,420" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M290,530 L420,410" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M290,415 L420,400" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M290,300 L420,390" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M290,185 L420,380" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+
+  <!-- LECTURA -->
+  <rect x="420" y="320" width="220" height="160" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="530" y="385" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">LECTURA</text>
+  <text x="530" y="410" text-anchor="middle" font-size="12" fill="#e5e7eb">e identificación</text>
+  <text x="530" y="428" text-anchor="middle" font-size="12" fill="#e5e7eb">de estructura</text>
+  <text x="530" y="452" text-anchor="middle" font-size="10.5" fill="#9ca3af">(registros, campos,</text>
+  <text x="530" y="466" text-anchor="middle" font-size="10.5" fill="#9ca3af">tipos, faltantes)</text>
+
+  <path d="M640,400 L740,400" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+
+  <!-- TRANSFORMACION -->
+  <rect x="740" y="310" width="240" height="180" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="860" y="365" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">SELECCIÓN</text>
+  <text x="860" y="385" text-anchor="middle" font-size="12" fill="#e5e7eb">de campos relevantes</text>
+  <text x="860" y="410" text-anchor="middle" font-size="14" fill="#ffffff">+</text>
+  <text x="860" y="435" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">TRANSFORMACIÓN</text>
+  <text x="860" y="455" text-anchor="middle" font-size="12" fill="#e5e7eb">a esquema común</text>
+
+  <path d="M980,400 L1090,400" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+
+  <!-- INTEGRACION -->
+  <rect x="1090" y="320" width="190" height="160" rx="12" fill="#111827" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="1185" y="385" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">INTEGRACIÓN</text>
+  <text x="1185" y="408" text-anchor="middle" font-size="12" fill="#e5e7eb">(pandas)</text>
+  <text x="1185" y="428" text-anchor="middle" font-size="12" fill="#e5e7eb">dataset</text>
+  <text x="1185" y="446" text-anchor="middle" font-size="12" fill="#e5e7eb">unificado</text>
+
+  <path d="M1185,480 L1185,560" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+
+  <!-- RESULTADO -->
+  <rect x="1050" y="560" width="230" height="110" rx="12" fill="#10B981" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="1165" y="600" text-anchor="middle" font-size="15" font-weight="bold" fill="#052e16">RESULTADO</text>
+  <text x="1165" y="622" text-anchor="middle" font-size="11.5" fill="#052e16">dataset_integrado.csv</text>
+  <text x="1165" y="642" text-anchor="middle" font-size="11.5" fill="#052e16">+ resumen en consola</text>
+
+  <!-- Leyenda -->
+  <g font-size="13" fill="#111827">
+    <rect x="20" y="740" width="22" height="22" fill="#3B82F6" stroke="#1f2937"/>
+    <text x="50" y="756">Estructurado</text>
+    <rect x="220" y="740" width="22" height="22" fill="#F59E0B" stroke="#1f2937"/>
+    <text x="250" y="756">Semiestructurado</text>
+    <rect x="460" y="740" width="22" height="22" fill="#EF4444" stroke="#1f2937"/>
+    <text x="490" y="756">No estructurado</text>
+  </g>
+</svg>

@@ -1,0 +1,639 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/WAvChARqrxudpzo29vWCA+3QD88</id>
+  <title>arXiv Query: search_query=cat:astro-ph.EP&amp;id_list=&amp;start=0&amp;max_results=20</title>
+  <updated>2026-09-28T15:42:26Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=cat:astro-ph.EP&amp;start=0&amp;max_results=20&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+  <opensearch:totalResults>36210</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2012.11737v1</id>
+    <title>Endogenic and Exogenic Contributions to Visible-wavelength Spectra of Europa's Trailing Hemisphere</title>
+    <updated>2020-12-21T23:10:56Z</updated>
+    <link href="https://arxiv.org/abs/2012.11737v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2012.11737v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The composition of Europa's trailing hemisphere reflects the combined influences of endogenous geologic resurfacing and exogenous sulfur radiolysis. Using spatially resolved visible-wavelength spectra of Europa obtained with the Hubble Space Telescope, we map multiple spectral features across the trailing hemisphere and compare their geographies with the distributions of large-scale geology, magnetospheric bombardment, and surface color. Based on such comparisons, we interpret some aspects of our spectra as indicative of purely exogenous sulfur radiolysis products and other aspects as indicative of radiolysis products formed from a mixture of endogenous material and magnetospheric sulfur. The spatial distributions of two of the absorptions seen in our spectra -- a widespread downturn toward the near-UV and a distinct feature at 530 nm -- appear consistent with sulfur allotropes previously suggested from ground-based spectrophotometry. However, the geographies of two additional features -- an absorption feature at 360 nm and the spectral slope at red wavelengths -- are more consistent with endogenous material that has been altered by sulfur radiolysis. We suggest irradiated sulfate salts as potential candidates for this material, but we are unable to identify particular species with the available data.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-12-21T23:10:56Z</published>
+    <arxiv:comment>10 pages, 1 table, 5 figures, published in The Astronomical Journal</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <arxiv:journal_ref>AJ, 160, 282 (2020)</arxiv:journal_ref>
+    <author>
+      <name>Samantha K. Trumbo</name>
+    </author>
+    <author>
+      <name>Michael E. Brown</name>
+    </author>
+    <author>
+      <name>Kevin P. Hand</name>
+    </author>
+    <arxiv:doi>10.3847/1538-3881/abc34c</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3847/1538-3881/abc34c" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2012.12829v1</id>
+    <title>Effects of latitude-dependent gravity wave source variations on the middle and upper atmosphere</title>
+    <updated>2020-12-23T17:44:21Z</updated>
+    <link href="https://arxiv.org/abs/2012.12829v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2012.12829v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Atmospheric gravity waves (GWs) are generated in the lower atmosphere by various weather phenomena. They propagate upward, carry energy and momentum to higher altitudes, and appreciably influence the general circulation upon depositing them in the middle and upper atmosphere. We use a three-dimensional first-principle general circulation model (GCM) with an implemented nonlinear whole atmosphere GW parameterization to study the global climatology of wave activity and produced effects at altitudes up to the upper thermosphere. The numerical experiments were guided by the GW momentum fluxes and temperature variances as measured in 2010 by the SABER (Sounding of the Atmosphere using Broadband Emission Radiometry) instrument onboard NASA's TIMED (Thermosphere Ionosphere Mesosphere Energetics Dynamics) satellite. This includes the latitudinal dependence and magnitude of GW activity in the lower stratosphere for the boreal summer season. The modeling results were compared to the SABER temperature and total absolute momentum flux, and Upper Atmosphere Research Satellite (UARS) data in the mesosphere and lower thermosphere. Simulations suggest that, in order to reproduce the observed circulation and wave activity in the middle atmosphere, smaller than the measured GW fluxes have to be used at the source level in the lower atmosphere. This is because observations contain a broader spectrum of GWs, while parameterizations capture only a portion relevant to the middle and upper atmosphere dynamics. Accounting for the latitudinal variations of the source appreciably improves simulations.</summary>
+    <category term="physics.space-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ao-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-12-23T17:44:21Z</published>
+    <arxiv:comment>Submitted to Frontiers in Astronomy and Space Sciences. Research Topic: "Coupling Processes in Terrestrial and Planetary Atmospheres"</arxiv:comment>
+    <arxiv:primary_category term="physics.space-ph"/>
+    <arxiv:journal_ref>Front. Astron. Space Sci., 2020</arxiv:journal_ref>
+    <author>
+      <name>Erdal Yiğit</name>
+    </author>
+    <author>
+      <name>Alexander S. Medvedev</name>
+    </author>
+    <author>
+      <name>Manfred Ern</name>
+    </author>
+    <arxiv:doi>10.3389/fspas.2020.614018</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3389/fspas.2020.614018" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1904.07910v1</id>
+    <title>Spontaneous ring formation in wind-emitting accretion discs</title>
+    <updated>2019-04-16T18:23:05Z</updated>
+    <link href="https://arxiv.org/abs/1904.07910v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1904.07910v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Rings and gaps have been observed in a wide range of protoplanetary discs, from young systems like HLTau to older discs like TW Hydra. Recent disc simulations have shown that magnetohydrodynamic (MHD) turbulence (in the ideal or non-ideal regime) can lead to the formation of rings and be an alternative to the embedded planets scenario. In this paper, we investigate how these ring form in this context and seek a generic formation process, taking into account the various dissipative regimes and magnetizations probed by the past simulations. We identify the existence of a linear and secular instability, driven by MHD winds, and giving birth to rings of gas having a width larger than the disc scale height. We show that the linear theory is able to make reliable predictions regarding the growth rates, ring/gap contrast and spacing, by comparing these predictions to a series of 2D (axisymmetric) and 3D MHD numerical simulations. In addition, we demonstrate that these rings can act as dust traps provided that the disc is sufficiently magnetised, with plasma beta lower than $10^4$. Given its robustness, the process identified in this paper could have important implications, not only for protoplanetary discs but also for a wide range of accreting systems threaded by large-scale magnetic fields.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-04-16T18:23:05Z</published>
+    <arxiv:comment>17 pages, accepted in A&amp;A</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>A. Riols</name>
+    </author>
+    <author>
+      <name>G. Lesur</name>
+    </author>
+    <arxiv:doi>10.1051/0004-6361/201834813</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1051/0004-6361/201834813" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1904.07991v1</id>
+    <title>Automated crater detection on Mars using deep learning</title>
+    <updated>2019-04-16T21:20:57Z</updated>
+    <link href="https://arxiv.org/abs/1904.07991v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1904.07991v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Impact crater cataloging is an important tool in the study of the geological history of planetary bodies in the Solar System, including dating of surface features and geologic mapping of surface processes. Catalogs of impact craters have been created by a diverse set of methods over many decades, including using visible or near infra-red imagery and digital terrain models.
+  I present an automated system for crater detection and cataloging using a digital terrain model (DTM) of Mars - In the algorithm craters are first identified as rings or disks on samples of the DTM image using a convolutional neural network with a UNET architecture, and the location and size of the features are determined using a circle matching algorithm. I describe the crater detection algorithm (CDA) and compare its performance relative to an existing crater dataset. I further examine craters missed by the CDA as well as potential new craters found by the algorithm. I show that the CDA can find three-quarters of the resolvable craters in the Mars DTMs, with a median difference of 5-10% in crater diameter compared to an existing database.
+  A version of this CDA has been used to process DTM data from the Moon and Mercury Silburt et al. (2019). The source code for the complete CDA is available at https://github.com/silburt/DeepMoon, and Martian crater datasets generated using this CDA are available at https://doi.org/10.5683/SP2/MDKPC8.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-04-16T21:20:57Z</published>
+    <arxiv:comment>16 pages, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>Christopher Lee</name>
+    </author>
+    <arxiv:doi>10.1016/j.pss.2019.03.008</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1016/j.pss.2019.03.008" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1904.12077v1</id>
+    <title>Modeling a Transient Secondary Paleo-Lunar Atmosphere: 3-D Simulations and Analysis</title>
+    <updated>2019-04-26T23:54:30Z</updated>
+    <link href="https://arxiv.org/abs/1904.12077v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1904.12077v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The lunar history of water deposition, loss, and transport post-accretion has become an important consideration in relation to the possibility of a human outpost on the Moon. Very recent work has shown that a secondary primordial atmosphere of up to 10 mb could have been emplaced ~3.5 billion years ago due to volcanic outgassing from the maria. Using a zero dimensional chemistry model we demonstrate the temperature dependence of the resulting major atmospheric components (CO or CO$_2$). We use a three dimensional general circulation model to test the viability of such an atmosphere and derive its climatological characteristics. Based on these results we then conjecture on its capability to transport volatiles outgassed from the maria to the permanently shadowed regions at the poles. Our preliminary results demonstrate that atmospheres as low as 1 mb are viable and that permanent cold trapping of volatiles is only possible at the poles.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-04-26T23:54:30Z</published>
+    <arxiv:comment>19 pages, 7 figures. Accepted for publication in GRL</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>I. Aleinov</name>
+    </author>
+    <author>
+      <name>M. J. Way</name>
+    </author>
+    <author>
+      <name>C. Harman</name>
+    </author>
+    <author>
+      <name>K. Tsigaridis</name>
+    </author>
+    <author>
+      <name>E. T. Wolf</name>
+    </author>
+    <author>
+      <name>G. Gronoff</name>
+    </author>
+    <arxiv:doi>10.1029/2019GL082494</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1029/2019GL082494" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1904.12790v1</id>
+    <title>Astro 2020: Astromineralogy of interstellar dust with X-ray spectroscopy</title>
+    <updated>2019-04-29T16:07:27Z</updated>
+    <link href="https://arxiv.org/abs/1904.12790v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1904.12790v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>X-ray absorption fine structure (XAFS) in the 0.2-2 keV band is a crucial component in multi-wavelength studies of dust mineralogy, size, and shape -- parameters that are necessary for interpreting astronomical observations and building physical models across all fields, from cosmology to exoplanets. Despite its importance, many fundamental questions about dust remain open. What is the origin of the dust that suffuses the interstellar medium (ISM)? Where is the missing interstellar oxygen? How does iron, predominantly produced by Type Ia supernovae, become incorporated into dust? What is the main form of carbon in the ISM, and how does it differ from carbon in stellar winds? The next generation of X-ray observatories, employing microcalorimeter technology and $R \equiv λ/Δλ\geq 3000$ gratings, will provide pivotal insights for these questions by measuring XAFS in absorption and scattering. However, lab measurements of mineralogical candidates for astrophysical dust, with R &gt; 1000, are needed to fully take advantage of the coming observations.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-04-29T16:07:27Z</published>
+    <arxiv:comment>Astro2020 decadal survey science white paper submitted to the National Academy of Sciences</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>Lia Corrales</name>
+    </author>
+    <author>
+      <name>Lynne Valencic</name>
+    </author>
+    <author>
+      <name>Elisa Costantini</name>
+    </author>
+    <author>
+      <name>Javier Garcia</name>
+    </author>
+    <author>
+      <name>Efrain Gatuzz</name>
+    </author>
+    <author>
+      <name>Tim Kallman</name>
+    </author>
+    <author>
+      <name>Julia Lee</name>
+    </author>
+    <author>
+      <name>Norbert Schulz</name>
+    </author>
+    <author>
+      <name>Sascha Zeegers</name>
+    </author>
+    <author>
+      <name>Claude Canizares</name>
+    </author>
+    <author>
+      <name>Bruce Draine</name>
+    </author>
+    <author>
+      <name>Sebastian Heinz</name>
+    </author>
+    <author>
+      <name>Edmund Hodges-Kluck</name>
+    </author>
+    <author>
+      <name>Edward B. Jenkins</name>
+    </author>
+    <author>
+      <name>Frits Paerels</name>
+    </author>
+    <author>
+      <name>Randall K. Smith</name>
+    </author>
+    <author>
+      <name>Tea Temim</name>
+    </author>
+    <author>
+      <name>Joern Wilms</name>
+    </author>
+    <author>
+      <name>Daniel W. Savin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1904.13334v3</id>
+    <title>Equatorial anti-rotating day side wind flow in WASP-43b elicited by deep wind jets?</title>
+    <updated>2020-06-22T17:46:24Z</updated>
+    <link href="https://arxiv.org/abs/1904.13334v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1904.13334v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present WASP-43b climate simulations with deep wind jets (down to 700~bar) that are linked to retrograde (westward) flow at the equatorial day side for $p&lt;0.1$~bar. Retrograde flow inhibits efficient eastward heat transport and naturally explains the small hotspot shift and large day-night-side gradient of WASP-43b ($P_{\text{orb}}=P_{\text{rot}}=0.8135$~days) observed with Spitzer. We find that deep wind jets are mainly associated with very fast rotations ($P_{\text{rot}}=P_{\text{orb}}\leq 1.5$~days) which correspond to the Rhines length smaller than $2$ planetary radii. We also diagnose wave activity that likely gives rise to deviations from superrotation. Further, we show that we can achieve full steady state in our climate simulations by imposing a deep forcing regime for $p&gt;10$~bar: convergence time scale $τ_{\text{conv}}=10^6-10^8$~s to a common adiabat, as well as linear drag at depth ($p\geq 200$~bar), which mimics to first order magnetic drag. Lower boundary stability and the deep forcing assumptions were also tested with climate simulations for HD~209458b ($P_{\text{orb}}=P_{\text{rot}}=3.5$~days). HD~209458b simulations always show shallow wind jets (never deeper than 100~bar) and unperturbed superrotation. If we impose a fast rotation ($P_{\text{orb}}=P_{\text{rot}}=0.8135$~days), also the HD~209458b-like simulation shows equatorial retrograde flow at the day side. We conclude that the placement of the lower boundary at $p=200$~bar is justified for slow rotators like HD~209458b, but we suggest that it has to be placed deeper for fast-rotating, dense hot Jupiters ($P_{\text{orb}}\leq 1.5$~days) like WASP-43b. Our study highlights that the deep atmosphere may have a strong influence on the observable atmospheric flow in some hot Jupiters.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-04-30T15:58:11Z</published>
+    <arxiv:comment>Accepted by MNRAS (36 pages with Appendix)</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>Ludmila Carone</name>
+    </author>
+    <author>
+      <name>Robin Baeyens</name>
+    </author>
+    <author>
+      <name>Paul Mollière</name>
+    </author>
+    <author>
+      <name>Patrick Barth</name>
+    </author>
+    <author>
+      <name>Allona Vazan</name>
+    </author>
+    <author>
+      <name>Leen Decin</name>
+    </author>
+    <author>
+      <name>Paula Sarkis</name>
+    </author>
+    <author>
+      <name>Olivia Venot</name>
+    </author>
+    <author>
+      <name>Thomas Henning</name>
+    </author>
+    <arxiv:doi>10.1093/mnras/staa1733</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1093/mnras/staa1733" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1906.00876v1</id>
+    <title>Using Dust Shed from Asteroids as Microsamples to Link Remote Measurements with Meteorite Classes</title>
+    <updated>2019-06-03T15:32:16Z</updated>
+    <link href="https://arxiv.org/abs/1906.00876v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1906.00876v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Given the compositional diversity of asteroids, and their distribution in space, it is impossible to consider returning samples from each one to establish their origin. However, the velocity and molecular composition of primary minerals, hydrated silicates, and organic materials can be determined by in situ dust detector instruments. Such instruments could sample the cloud of micrometer-scale particles shed by asteroids to provide direct links to known meteorite groups without returning the samples to terrestrial laboratories. We extend models of the measured lunar dust cloud from LADEE to show that the abundance of detectable impact-generated microsamples around asteroids is a function of the parent body radius, heliocentric distance, flyby distance, and speed. We use monte carlo modeling to show that several tens to hundreds of particles, if randomly ejected and detected during a flyby, would be a sufficient number to classify the parent body as an ordinary chondrite, basaltic achondrite, or other class of meteorite. Encountering and measuring microsamples shed from near-earth and main-belt asteroids, coupled with complementary imaging and multispectral measurements, could accomplish a thorough characterization of small, airless bodies.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-06-03T15:32:16Z</published>
+    <arxiv:comment>19 pages, 3 Tables, 10 Figures, accepted May 30, 2019</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <arxiv:journal_ref>Meteoritics and Planetary Science 2019</arxiv:journal_ref>
+    <author>
+      <name>Barbara A. Cohen</name>
+    </author>
+    <author>
+      <name>Jamey R. Szalay</name>
+    </author>
+    <author>
+      <name>Andrew S. Rivkin</name>
+    </author>
+    <author>
+      <name>Jacob A. Richardson</name>
+    </author>
+    <author>
+      <name>Rachel E. Klima</name>
+    </author>
+    <author>
+      <name>Carolyn M. Ernst</name>
+    </author>
+    <author>
+      <name>Nancy L. Chabot</name>
+    </author>
+    <author>
+      <name>Zoltan Sternovsky</name>
+    </author>
+    <author>
+      <name>Mihaly Horányi</name>
+    </author>
+    <arxiv:doi>10.1111/maps.13348</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1111/maps.13348" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1906.00966v3</id>
+    <title>Wotan: Comprehensive time-series de-trending in Python</title>
+    <updated>2019-08-07T17:50:27Z</updated>
+    <link href="https://arxiv.org/abs/1906.00966v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1906.00966v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The detection of transiting exoplanets in time-series photometry requires the removal or modeling of instrumental and stellar noise. While instrumental systematics can be reduced using methods such as pixel level decorrelation, removing stellar trends while preserving transit signals proves challenging. Due to vast archives of light curves from recent transit surveys, there is a strong need for accurate automatic detrending, without human intervention. A large variety of detrending algorithms are in active use, but their comparative performance for transit discovery is unexplored. We benchmark all commonly used detrending methods against hundreds of Kepler, K2, and TESS planets, selected to represent the most difficult cases for systems with small planet-to-star radius ratios. The full parameter range is explored for each method to determine the best choices for planet discovery. We conclude that the ideal method is a time-windowed slider with an iterative robust location estimator based on Tukey's biweight. This method recovers 99% and 94% of the shallowest Kepler and K2 planets, respectively. We include an additional analysis for young stars with extreme variability and conclude they are best treated using a spline-based method with a robust Huber estimator. All stellar detrending methods explored are available for public use in wotan, an open-source Python package on GitHub (see https://github.com/hippke/wotan).</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-06-03T18:00:00Z</published>
+    <arxiv:comment>Accepted to AJ. Code, documentation and tutorials are available at https://github.com/hippke/wotan</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>Michael Hippke</name>
+    </author>
+    <author>
+      <name>Trevor J. David</name>
+    </author>
+    <author>
+      <name>Gijs D. Mulders</name>
+    </author>
+    <author>
+      <name>René Heller</name>
+    </author>
+    <arxiv:doi>10.3847/1538-3881/ab3984</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3847/1538-3881/ab3984" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1906.01475v1</id>
+    <title>Introduction of water-vapor broadening coefficients and their temperature dependence exponents into the HITRAN database, Part I: CO2, N2O, CO, CH4, O2, NH3, and H2S</title>
+    <updated>2019-06-04T14:30:59Z</updated>
+    <link href="https://arxiv.org/abs/1906.01475v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1906.01475v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The amount of water vapor in the terrestrial atmosphere is highly variable both spatially and temporally. In the tropics it sometimes constitutes 4-5% of the atmosphere. At the same time collisional broadening of spectral lines by water vapor is much larger than that by nitrogen and oxygen. Therefore, in order to accurately characterize and model spectra of the atmospheres with significant amounts of water vapor, the line-shape parameters for spectral lines broadened by water vapor are required. In this work, the line-broadening coefficients (and their temperature dependence exponents) due to the pressure of water vapor for lines of CO2, N2O, CO, CH4, O2, NH3, and H2S from both experimental and theoretical studies were collected and carefully reviewed. A set of semi-empirical models based on these collected data was created and then used to estimate water broadening and its temperature dependence for all transitions of selected molecules in the HITRAN2016 database.</summary>
+    <category term="physics.ao-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-06-04T14:30:59Z</published>
+    <arxiv:comment>Submitted to the Journal of Geophysical Research: Atmospheres on May 23, 2019. 3 Tables, 11 Figures</arxiv:comment>
+    <arxiv:primary_category term="physics.ao-ph"/>
+    <author>
+      <name>Yan Tan</name>
+    </author>
+    <author>
+      <name>Roman V. Kochanov</name>
+    </author>
+    <author>
+      <name>Laurence S. Rothman</name>
+    </author>
+    <author>
+      <name>Iouli E. Gordon</name>
+    </author>
+    <arxiv:doi>10.1029/2019JD030929</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1029/2019JD030929" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2005.14668v2</id>
+    <title>MaB$μ$lS-2: high-precision microlensing modelling for the large-scale survey era</title>
+    <updated>2020-08-13T10:11:43Z</updated>
+    <link href="https://arxiv.org/abs/2005.14668v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2005.14668v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Galactic microlensing datasets now comprise in excess of $10^4$ events, and with the advent of next generation microlensing surveys that may be undertaken with facilities such as the Rubin Observatory (formerly LSST) and Roman Space Telescope (formerly WFIRST), this number will increase significantly. So too will the fraction of events with measurable higher order information such as finite source effects and lens-source relative proper motion. Analysing such data requires a more sophisticated Galactic microlens modeling approach. We present a new second-generation Manchester-Besançon Microlensing Simulator (MaB$μ$lS-2), which uses a version of the Besançon population synthesis Galactic model that provides good agreement with stellar kinematics observed by HST towards the bulge. MaB$μ$lS-2 provides high-fidelity signal-to-noise limited maps of the microlensing optical depth, rate and average timescale towards a 400 sq. degree region of the Galactic bulge in several optical to near-infrared pass-bands. The maps take full account of the unresolved stellar background as well as limb-darkened source profiles. Comparing MaB$μ$lS-2 to the efficiency-corrected OGLE-IV 8,000 event sample shows a much improved agreement over the previous version of MaB$μ$lS, and succeeds in matching even small-scale structural features in the OGLE-IV event rate map. However, there remains evidence for a small under-prediction in the event rate per source and over-prediction in timescale. MaB$μ$lS-2 is available online (&lt;www.mabuls.net&gt;) to provide on-the-fly maps for user supplied cuts in survey magnitude, event timescale and relative proper motion.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.GA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.SR" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-05-29T16:51:19Z</published>
+    <arxiv:comment>24 pages, 21 figures, Journal: MNRAS, for associated online tool, visit &lt;www.mabuls.net&gt;</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>David Specht</name>
+    </author>
+    <author>
+      <name>Eamonn Kerins</name>
+    </author>
+    <author>
+      <name>Supachai Awiphan</name>
+    </author>
+    <author>
+      <name>Annie C. Robin</name>
+    </author>
+    <arxiv:doi>10.1093/mnras/staa2375</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1093/mnras/staa2375" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2005.14671v2</id>
+    <title>The Gaia-Kepler Stellar Properties Catalog. II. Planet Radius Demographics as a Function of Stellar Mass and Age</title>
+    <updated>2020-06-30T01:15:13Z</updated>
+    <link href="https://arxiv.org/abs/2005.14671v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2005.14671v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Studies of exoplanet demographics require large samples and precise constraints on exoplanet host stars. Using the homogeneous Kepler stellar properties derived using Gaia Data Release 2 by Berger et al. (2020), we re-compute Kepler planet radii and incident fluxes and investigate their distributions with stellar mass and age. We measure the stellar mass dependence of the planet radius valley to be $d \log R_{\mathrm{p}}$/$d \log M_\star = 0.26^{+0.21}_{-0.16}$, consistent with the slope predicted by a planet mass dependence on stellar mass ($0.24-0.35$) and core-powered mass-loss (0.33). We also find first evidence of a stellar age dependence of the planet populations straddling the radius valley. Specifically, we determine that the fraction of super-Earths ($1-1.8 \mathrm{R_\oplus}$) to sub-Neptunes ($1.8-3.5 \mathrm{R_\oplus}$) increases from $0.61 \pm 0.09$ at young ages (&lt; 1 Gyr) to $1.00 \pm 0.10$ at old ages (&gt; 1 Gyr), consistent with the prediction by core-powered mass-loss that the mechanism shaping the radius valley operates over Gyr timescales. Additionally, we find a tentative decrease in the radii of relatively cool ($F_{\mathrm{p}} &lt; 150 \mathrm{F_\oplus}$) sub-Neptunes over Gyr timescales, which suggests that these planets may possess H/He envelopes instead of higher mean molecular weight atmospheres. We confirm the existence of planets within the hot sub-Neptunian "desert" ($2.2 &lt; R_{\mathrm{p}} &lt; 3.8 \mathrm{R_\oplus}$, $F_{\mathrm{p}} &gt; 650 \mathrm{F_\oplus}$) and show that these planets are preferentially orbiting more evolved stars compared to other planets at similar incident fluxes. In addition, we identify candidates for cool ($F_{\mathrm{p}} &lt; 20 \mathrm{F_\oplus}$) inflated Jupiters, present a revised list of habitable zone candidates, and find that the ages of single- and multiple-transiting planet systems are statistically indistinguishable.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.GA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.SR" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-05-29T16:53:29Z</published>
+    <arxiv:comment>22 pages, 13 figures, 1 table. Accepted by AJ. The electronic version of Table 1 is available as an ancillary file (sidebar on the right). For a brief video explaining this paper, see https://youtu.be/d42ffDq1D94</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>Travis A. Berger</name>
+    </author>
+    <author>
+      <name>Daniel Huber</name>
+    </author>
+    <author>
+      <name>Eric Gaidos</name>
+    </author>
+    <author>
+      <name>Jennifer L. van Saders</name>
+    </author>
+    <author>
+      <name>Lauren M. Weiss</name>
+    </author>
+    <arxiv:doi>10.3847/1538-3881/aba18a</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3847/1538-3881/aba18a" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2005.14200v1</id>
+    <title>The unexpected narrowness of eccentric debris rings: a sign of eccentricity during the protoplanetary disc phase</title>
+    <updated>2020-05-28T18:00:00Z</updated>
+    <link href="https://arxiv.org/abs/2005.14200v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2005.14200v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper shows that the eccentric debris rings seen around the stars Fomalhaut and HD 202628 are narrower than expected in the standard eccentric planet perturbation scenario (sometimes referred to as "pericenter glow"). The standard scenario posits an initially circular and narrow belt of planetesimals at semi-major axis $a$, whose eccentricity is increased to $e_f$ after the gas disc has dispersed by secular perturbations from an eccentric planet, resulting in a belt of width $2ae_f$. In a minor modification of this scenario, narrower belts can arise if the planetesimals are initially eccentric, which could result from earlier planet perturbations during the gas-rich protoplanetary disc phase. However, a primordial eccentricity could alternatively be caused by instabilities that increase the disc eccentricity, without the need for any planets. Whether these scenarios produce detectable eccentric rings within protoplanetary discs is unclear, but they nevertheless predict that narrow eccentric planetesimal rings should exist before the gas in protoplanetary discs is dispersed. PDS 70 is noted as a system hosting an asymmetric protoplanetary disc that may be a progenitor of eccentric debris ring systems.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.SR" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-05-28T18:00:00Z</published>
+    <arxiv:comment>accepted to Royal Society Open Science</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>Grant M. Kennedy</name>
+    </author>
+    <arxiv:doi>10.1098/rsos.200063</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1098/rsos.200063" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2006.00645v1</id>
+    <title>Evidence for a Past Martian Ring from the Orbital Inclination of Deimos</title>
+    <updated>2020-06-01T00:06:51Z</updated>
+    <link href="https://arxiv.org/abs/2006.00645v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2006.00645v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We numerically explore the possibility that the large orbital inclination of the martian satellite Deimos originated in an orbital resonance with an ancient inner satellite of Mars more massive than Phobos. We find that Deimos's inclination can be reliably generated by outward evolution of a martian satellite that is about 20 times more massive than Phobos through the 3:1 mean-motion resonance with Deimos at 3.3 Mars radii. This outward migration, in the opposite direction from tidal evolution within the synchronous radius, requires interaction with a past massive ring of Mars. Our results therefore strongly support the cyclic martian ring-satellite hypothesis of Hesselbrock and Minton (2017). Our findings, combined with the model of Hesselbrock and Minton (2017), suggest that the age of the surface of Deimos is about 3.5-4 Gyr, and require Phobos to be significantly younger.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-06-01T00:06:51Z</published>
+    <arxiv:comment>Accepted for ApJL</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>Matija Ćuk</name>
+    </author>
+    <author>
+      <name>David A. Minton</name>
+    </author>
+    <author>
+      <name>Jennifer L. L. Pouplin</name>
+    </author>
+    <author>
+      <name>Carlisle Wishard</name>
+    </author>
+    <arxiv:doi>10.3847/2041-8213/ab974f</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3847/2041-8213/ab974f" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2006.04534v1</id>
+    <title>No evidence for interstellar planetesimals trapped in the Solar System</title>
+    <updated>2020-06-08T12:43:41Z</updated>
+    <link href="https://arxiv.org/abs/2006.04534v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2006.04534v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In two recent papers published in MNRAS, Namouni and Morais (2018, 2020) claimed evidence for the interstellar origin of some small Solar System bodies, including i) objects in retrograde co-orbital motion with the giant planets, and ii) the highly-inclined Centaurs. Here, we discuss the flaws of those papers that invalidate the authors' conclusions. Numerical simulations backwards in time are not representative of the past evolution of real bodies. Instead, these simulations are only useful as a means to quantify the short dynamical lifetime of the considered bodies and the fast decay of their population. In light of this fast decay, if the observed bodies were the survivors of populations of objects captured from interstellar space in the early Solar System, these populations should have been implausibly large (e.g. about 10 times the current main asteroid belt population for the retrograde coorbital of Jupiter). More likely, the observed objects are just transient members of a population that is maintained in quasi-steady state by a continuous flux of objects from some parent reservoir in the distant Solar System. We identify in the Halley type comets and the Oort cloud the most likely sources of retrograde coorbitals and highly-inclined Centaurs.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-06-08T12:43:41Z</published>
+    <arxiv:comment>in press in MNRAS</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>A. Morbidelli</name>
+    </author>
+    <author>
+      <name>K. Batygin</name>
+    </author>
+    <author>
+      <name>R. Brasser</name>
+    </author>
+    <author>
+      <name>S. Raymond</name>
+    </author>
+    <arxiv:doi>10.1093/mnrasl/slaa111</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1093/mnrasl/slaa111" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2006.05107v2</id>
+    <title>The tensile strength of dust aggregates consisting of small elastic grains: Constraints on the size of condensates in protoplanetary disks</title>
+    <updated>2020-07-08T01:14:40Z</updated>
+    <link href="https://arxiv.org/abs/2006.05107v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2006.05107v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A consensus view on the formation of planetesimals is now exposed to a threat, since recent numerical studies on the mechanical properties of dust aggregates tend to dispute the conceptual picture that submicrometer-sized grains conglomerate into planetesimals in protoplanetary disks. With the advent of precise laboratory experiments and extensive computer simulations on the interaction between elastic spheres comprising dust aggregates, we revisit a model for the tensile strength of dust aggregates consisting of small elastic grains. In the framework of contact mechanics and fracture mechanics, we examine outcomes of computer simulations and laboratory experiments on the tensile strength of dust aggregates. We provide a novel analytical formula that explicitly incorporates the volume effect on the tensile strength, namely, the dependence of tensile strength on the volume of dust aggregates. We find that our model for the tensile strength of dust aggregates well reproduces results of computer simulations and laboratory experiments, if appropriate values are adopted for the elastic parameters used in the model. Moreover, the model with dust aggregates of submicrometer-sized grains is in good harmony with the tensile strength of cometary dust and meteoroids derived from astronomical observations. Therefore, we reaffirm the commonly believed idea that the formation of planetesimals begins with conglomeration of submicrometer-sized grains condensed in protoplanetary disks.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-06-09T08:28:39Z</published>
+    <arxiv:comment>19 pages, 11 figures, published in Monthly Notices of the Royal Astronomical Society</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <arxiv:journal_ref>MNRAS 496, 1667-1682 (2020)</arxiv:journal_ref>
+    <author>
+      <name>Hiroshi Kimura</name>
+    </author>
+    <author>
+      <name>Koji Wada</name>
+    </author>
+    <author>
+      <name>Fumi Yoshida</name>
+    </author>
+    <author>
+      <name>Peng K. Hong</name>
+    </author>
+    <author>
+      <name>Hiroki Senshu</name>
+    </author>
+    <author>
+      <name>Tomoko Arai</name>
+    </author>
+    <author>
+      <name>Takayuki Hirai</name>
+    </author>
+    <author>
+      <name>Masanori Kobayashi</name>
+    </author>
+    <author>
+      <name>Ko Ishibashi</name>
+    </author>
+    <author>
+      <name>Manabu Yamada</name>
+    </author>
+    <arxiv:doi>10.1093/mnras/staa1641</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1093/mnras/staa1641" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2006.04121v1</id>
+    <title>Pebbles versus planetesimals: the outcomes of population synthesis models</title>
+    <updated>2020-06-07T11:25:46Z</updated>
+    <link href="https://arxiv.org/abs/2006.04121v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2006.04121v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In the core accretion scenario, a massive core forms first and then accretes an envelope. When discussing how this core forms some divergences appear. First scenarios of planet formation predict the accretion of km-sized bodies, called planetesimals, while more recent works suggest growth by accretion of pebbles, which are cm-sized objects. These two accretion models are often discussed separately and we aim here at comparing the outcomes of the two models with identical initial conditions. We use two distinct codes: one computing planetesimal accretion, the other pebble accretion. Using a population synthesis approach, we compare planet simulations and study the impact of the two solid accretion models, focussing on the formation of single planets. We find that the planetesimal model predicts the formation of more giant planets, while the pebble accretion model forms more super-Earth mass planets. This is due to the pebble isolation mass concept, which prevents planets formed by pebble accretion to accrete gas efficiently before reaching Miso. This translates into a population of planets that are not heavy enough to accrete a consequent envelope but that are in a mass range where type I migration is very efficient. We also find higher gas mass fractions for a given core mass for the pebble model compared to the planetesimal one caused by luminosity differences. This also implies planets with lower densities which could be confirmed observationally. Focusing on giant planets, we conclude that the sensitivity of their formation differs: for the pebble accretion model, the time at which the embryos are formed, as well as the period over which solids are accreted strongly impact the results, while for the planetesimal model it depends on the planetesimal size and on the splitting in the amount of solids available to form planetesimals.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-06-07T11:25:46Z</published>
+    <arxiv:comment>16 pages, 14 figures</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <arxiv:journal_ref>A&amp;A 640, A21 (2020)</arxiv:journal_ref>
+    <author>
+      <name>Natacha Brügger</name>
+    </author>
+    <author>
+      <name>Remo Burn</name>
+    </author>
+    <author>
+      <name>Gavin Coleman</name>
+    </author>
+    <author>
+      <name>Yann Alibert</name>
+    </author>
+    <author>
+      <name>Willy Benz</name>
+    </author>
+    <arxiv:doi>10.1051/0004-6361/202038042</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1051/0004-6361/202038042" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2005.13958v1</id>
+    <title>Speckle Interferometry of Nearby Multiple Stars: 2007-2019 Positional Measurements and Orbits of Eight Objects</title>
+    <updated>2020-05-28T12:54:49Z</updated>
+    <link href="https://arxiv.org/abs/2005.13958v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2005.13958v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The orbits of 8 systems with low-mass components (HIP 14524, HIP 16025, HIP 28671, HIP 46199, HIP 47791, HIP 60444, HIP 61100 and HIP 73085) are presented. Speckle interferometric data were obtained at the 6 m Big Alt-azimuth Special Astrophysical Observatory of the Russian Academy of Sciences (BTA SAO RAS) from 2007 to 2019. New data, together with measures already in the literature, made it possible to improve upon previous orbital solutions in six cases and to construct orbits for the first time in the two remaining cases (HIP 14524 and HIP 60444). Mass sums are obtained using both Hipparcos and Gaia parallaxes, and a comparison with previously published values is made. Using the Worley &amp; Heintz criteria, the classiffcation of the orbits constructed is carried out.</summary>
+    <category term="astro-ph.SR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-05-28T12:54:49Z</published>
+    <arxiv:primary_category term="astro-ph.SR"/>
+    <arxiv:journal_ref>The Astronomical Journal, 2020, V. 159, No. 6, P. 266</arxiv:journal_ref>
+    <author>
+      <name>A. Mitrofanova</name>
+    </author>
+    <author>
+      <name>V. Dyachenko</name>
+    </author>
+    <author>
+      <name>A. Beskakotov</name>
+    </author>
+    <author>
+      <name>Yu. Balega</name>
+    </author>
+    <author>
+      <name>A. Maksimov</name>
+    </author>
+    <author>
+      <name>D. Rastegaev</name>
+    </author>
+    <author>
+      <name>S. Komarinsky</name>
+    </author>
+    <arxiv:doi>10.3847/1538-3881/ab8ae2</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3847/1538-3881/ab8ae2" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2005.13190v2</id>
+    <title>Atmospheric Escape From TOI-700 d: Venus versus Earth Analogs</title>
+    <updated>2020-06-09T12:10:09Z</updated>
+    <link href="https://arxiv.org/abs/2005.13190v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2005.13190v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The recent discovery of an Earth-sized planet (TOI-700 d) in the habitable zone of an early-type M-dwarf by the Transiting Exoplanet Survey Satellite constitutes an important advance. In this Letter, we assess the feasibility of this planet to retain an atmosphere -- one of the chief ingredients for surface habitability -- over long timescales by employing state-of-the-art magnetohydrodynamic models to simulate the stellar wind and the associated rates of atmospheric escape. We take two major factors into consideration, namely, the planetary atmospheric composition and magnetic field. In all cases, we determine that the atmospheric ion escape rates are potentially a few orders of magnitude higher than the inner Solar system planets, but TOI-700 d is nevertheless capable of retaining a $1$ bar atmosphere over gigayear timescales for certain regions of the parameter space. The simulations show that the unmagnetized TOI-700 d with a 1 bar Earth-like atmosphere could be stripped away rather quickly ($&lt;$ 1 gigayear), while the unmagnetized TOI-700 d with a 1 bar CO$_2$-dominated atmosphere could persist for many billions of years; we find that the magnetized Earth-like case falls in between these two scenarios. We also discuss the prospects for detecting radio emission of the planet (thereby constraining its magnetic field) and discerning the presence of an atmosphere.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.SR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.space-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-05-27T06:37:21Z</published>
+    <arxiv:comment>ApJ Letters, in press, 8 pages, 3 figures, and 1 table</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <arxiv:journal_ref>The Astrophysical Journal Letters, Vol. 896, L24 (2020)</arxiv:journal_ref>
+    <author>
+      <name>Chuanfei Dong</name>
+    </author>
+    <author>
+      <name>Meng Jin</name>
+    </author>
+    <author>
+      <name>Manasvi Lingam</name>
+    </author>
+    <arxiv:doi>10.3847/2041-8213/ab982f</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3847/2041-8213/ab982f" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2006.01881v1</id>
+    <title>Atmosphere loss in planet-planet collisions</title>
+    <updated>2020-06-02T18:58:57Z</updated>
+    <link href="https://arxiv.org/abs/2006.01881v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2006.01881v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Many of the planets discovered by the Kepler satellite are close orbiting Super-Earths or Mini-Neptunes. Such objects exhibit a wide spread of densities for similar masses. One possible explanation for this density spread is giant collisions stripping planets of their atmospheres. In this paper we present the results from a series of smoothed particle hydrodynamics (SPH) simulations of head-on collisions of planets with significant atmospheres and bare projectiles without atmospheres. Collisions between planets can have sufficient energy to remove substantial fractions of the mass from the target planet. We find the fraction of mass lost splits into two regimes -- at low impact energies only the outer layers are ejected corresponding to atmosphere dominated loss, at higher energies material deeper in the potential is excavated resulting in significant core and mantle loss. Mass removal is less efficient in the atmosphere loss dominated regime compared to the core and mantle loss regime, due to the higher compressibility of atmosphere relative to core and mantle. We find roughly twenty per cent atmosphere remains at the transition between the two regimes. We find that the specific energy of this transition scales linearly with the ratio of projectile to target mass for all projectile-target mass ratios measured. The fraction of atmosphere lost is well approximated by a quadratic in terms of the ratio of specific energy and transition energy. We provide algorithms for the incorporation of our scaling law into future numerical studies.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-06-02T18:58:57Z</published>
+    <arxiv:comment>16 pages, 8 figures, accepted for publication in MNRAS, for associated mp4 files see http://www.star.bris.ac.uk/TDenman/Paper1_Videos/t6-25Me_p0-25Me_v2e6cms.mp4 , http://www.star.bris.ac.uk/TDenman/Paper1_Videos/t6-25Me_p2Me_v3e6cms.mp4 , http://www.star.bris.ac.uk/TDenman/Paper1_Videos/t6-25Me_p4Me_v5e6cms.mp4 and http://www.star.bris.ac.uk/TDenman/Paper1_Videos/t6-25Me_p5Me_v6e6cms.mp4</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>Thomas R. Denman</name>
+      <arxiv:affiliation>The University Of Bristol</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Zoe M. Leinhardt</name>
+      <arxiv:affiliation>The University Of Bristol</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Phil J. Carter</name>
+      <arxiv:affiliation>University Of California Davis</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Christoph Mordasini</name>
+      <arxiv:affiliation>University Of Bern</arxiv:affiliation>
+    </author>
+    <arxiv:doi>10.1093/mnras/staa1623</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1093/mnras/staa1623" title="doi"/>
+  </entry>
+</feed>
